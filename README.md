@@ -11,13 +11,13 @@ https://openlab.ncl.ac.uk/phd-projects/intimate-care/
 
 [![Labella](https://vimeo.com/teresaalmeida)](https://vimeo.com/teresaalmeida)
 
-Licenses
+## Licenses
 
 All my software is provided 'as-is', without any express or implied warranty. In no event should the author be held liable for any damages arising from the use of this software.
 
 In this folder you can find Third Party software. Please note I have added my own library projects to bring this code into my build and these are therefore edited versions of the software.
 
-Third Party software:
+## Third Party software:
 
 All Third Party software is provided 'as-is', without any express or implied warranty.
 
