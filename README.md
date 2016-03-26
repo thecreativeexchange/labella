@@ -27,9 +27,9 @@ See readmes in the folders and/or source code for the author’s license.
 
 Please refer to the author's original sites for unedited and clean versions.
 
-JSON Dave Gamble
-OpenCV itseez - http://opencv.org/about.html
-OpenAL Creative Technology et al. - OpenAl headers not included in source tree
-TinyXML Lee Thomason
-ZLib Jean-loup Gailly and Mark Adler
-SessionController shrtlist.com
+1. JSON Dave Gamble
+2. OpenCV itseez - http://opencv.org/about.html
+3. OpenAL Creative Technology et al. - OpenAl headers not included in source tree
+4. TinyXML Lee Thomason
+5. ZLib Jean-loup Gailly and Mark Adler
+6. SessionController shrtlist.com
